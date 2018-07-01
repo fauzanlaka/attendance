@@ -1,0 +1,15 @@
+        @font-face {
+            font-family: "jawi";
+            src: url(font/jawi.ttf);
+        }
+
+        #main{
+            font:40px "jawi";
+            font-weight: bold;
+        }
+        #subText{
+            font: 28px "jawi";
+        }
+        #thai{
+            font: 12px "jawi";
+        }
